@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="55"
+   height="55"
+   id="svg2">
+  <rect
+     width="55"
+     height="55"
+     rx="0"
+     x="0"
+     y="0"
+     id="rect2839"
+     style="fill:#ffd200;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+  <path
+     d="M 5.9134598,27.505525 C 5.048376,22.407197 7.2619406,16.388412 11.408648,12.95654 c 3.523675,-2.916242 9.593782,-2.525838 14.249143,-3.5650904 2.595803,-0.5794815 7.41309,-1.5140335 10.020726,-0.9824491 4.655623,0.94908 7.214474,2.9652845 10.454097,6.8833435 1.786628,2.16078 2.705099,5.870919 3.065953,8.575609 0.941488,7.056678 -7.430298,20.266881 -9.125167,21.607985 -2.184427,1.728477 -7.424084,2.21445 -10.619164,3.560188 -1.73233,0.729644 -8.094152,-0.409793 -9.878671,-1.021138 C 16.195459,46.857024 7.44894,36.554802 5.9134598,27.505525 z"
+     id="path2987"
+     style="fill:#fc3e04;fill-opacity:1;stroke:#ffffff;stroke-width:1.45570946;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <path
+     d="m 18.947964,15.872121 c 0,0 3.98541,1.459755 6.073127,1.492485 3.010207,0.04719 8.625602,-1.98998 8.625602,-1.98998"
+     id="path3757"
+     style="fill:none;stroke:#ffffff;stroke-width:1.45731699;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <path
+     d="m 25.28514,17.198773 c 0,0 1.786157,-9.4672473 5.104949,-11.3594638 0.741185,-0.4225894 1.859119,0.4519112 2.288424,1.1608211 0.363741,0.6006481 0.505149,1.6655273 -0.08802,2.0728952 -0.442893,0.3041672 -1.229622,-0.8082343 -1.58429,-0.4145791 -1.10375,1.2250718 -3.256605,7.9599166 -3.256605,7.9599166"
+     id="path3759"
+     style="fill:#614507;fill-opacity:1;stroke:#ffffff;stroke-width:1.45731699;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+</svg>

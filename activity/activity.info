@@ -1,0 +1,11 @@
+[Activity]
+name = Turtle Nutrition
+activity_version = 204
+license = MIT
+bundle_id = org.laptop.TurtleNutritionActivity
+exec = sugar-activity TurtleArtActivity.TurtleArtActivity
+icon = activity-turtleart
+show_launcher = yes
+website = http://wiki.sugarlabs.org/go/Activities/Turtle_Art
+mime_types = application/x-turtle-art;application/vnd.turtleblocks
+summary = A Logo-inspired turtle that draws colorful pictures with snap-together visual programming blocks
